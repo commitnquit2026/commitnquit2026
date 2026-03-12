@@ -6,7 +6,7 @@
 
 <!-- ██████████████████ BANNER ██████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=COMMIT%20%26%20QUIT&fontSize=70&color=0:1a1a2e,50:16213e,100=0f3460&stroke=2ea44f&strokeWidth=2&fontColor=FFD700&animation=twinkling&fontAlignY=55&desc=git%20push%20-u%20origin%20hackathon&descAlignY=75&descSize=18&descColor=7ee787" />
+<img width="100%" src="https://github.com/commitnquit2026/commitnquit2026/blob/main/Banner.png" />
 
 <!-- Live badges -->
 <br/>
@@ -22,7 +22,7 @@
 
 <!-- ██████████████████ TERMINAL INTRO ██████████████████ -->
 
-<div align="center">
+<div align="left">
 
 ```bash
 $ git log --oneline --graph --all
@@ -106,57 +106,46 @@ team.execute()
 <tr>
 
 <td align="center" width="25%">
-<img src="https://avatars.githubusercontent.com/u/9919?s=100&v=4" width="80" style="border-radius:50%; border: 3px solid #2ea44f"/>
+<img src="PROFILE_IMAGE_URL_1" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
 <br/>
 <b>Developer 01</b>
 <br/>
-<code>@handle</code>
+<code>@https://github.com/RaoMitesh21</code>
 <br/>
-<img src="https://img.shields.io/badge/Role-Team_Lead-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Role-Team_Leader-FFD700?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Odoo-Expert-714B67?style=flat-square&logo=odoo"/>
+<img src="https://img.shields.io/badge/Frontend%20%2B%20Backend-Integration-2ea44f?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Deployment-Expert-0A66C2?style=flat-square"/>
 </td>
 
 <td align="center" width="25%">
-<img src="https://avatars.githubusercontent.com/u/583231?s=100&v=4" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
+<img src="PROFILE_IMAGE_URL_2" width="80" style="border-radius:50%; border: 3px solid #2ea44f"/>
 <br/>
 <b>Developer 02</b>
 <br/>
-<code>@handle</code>
+<code>@https://github.com/henilpaneliya95</code>
 <br/>
-<img src="https://img.shields.io/badge/Role-Backend_Dev-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Role-Backend_Developer-2ea44f?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Python-Wizard-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python"/>
 </td>
 
 <td align="center" width="25%">
-<img src="https://avatars.githubusercontent.com/u/1?s=100&v=4" width="80" style="border-radius:50%; border: 3px solid #6f42c1"/>
+<img src="PROFILE_IMAGE_URL_3" width="80" style="border-radius:50%; border: 3px solid #6f42c1"/>
 <br/>
 <b>Developer 03</b>
 <br/>
-<code>@handle</code>
+<code>@https://github.com/Dakshpes123</code>
 <br/>
-<img src="https://img.shields.io/badge/Role-Frontend_Dev-6f42c1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Role-UI%2FUX_Designer-6f42c1?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/UI%2FUX-Crafter-F7DF1E?style=flat-square&logo=javascript"/>
-</td>
-
-<td align="center" width="25%">
-<img src="https://avatars.githubusercontent.com/u/2?s=100&v=4" width="80" style="border-radius:50%; border: 3px solid #F05032"/>
-<br/>
-<b>Developer 04</b>
-<br/>
-<code>@handle</code>
-<br/>
-<img src="https://img.shields.io/badge/Role-DevOps-F05032?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-Master-F05032?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/3D_Design-Expert-F7DF1E?style=flat-square"/>
 </td>
 
 </tr>
 </table>
 </div>
-
 > 💡 **Replace** the avatar URLs, names, and `@handle` with your actual team members!
 
 ---
@@ -170,10 +159,15 @@ team.execute()
 ![Odoo](https://img.shields.io/badge/Odoo-17-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AI%20%2F%20ML](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-Toolkit-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -185,13 +179,13 @@ team.execute()
 <h2>📊 Team Activity</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=2ea44f&line=FFD700&point=6f42c1&area=true&hide_border=true&title_color=FFD700" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0d1117&color=2ea44f&line=FFD700&point=6f42c1&area=true&hide_border=true&title_color=FFD700" width="100%"/>
 </div>
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=2ea44f&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=henilpaneliya95&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=2ea44f&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&title_color=FFD700&text_color=c9d1d9&border_color=30363d" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshpes123&layout=compact&theme=github_dark&title_color=FFD700&text_color=c9d1d9&border_color=30363d" />
 </div>
 
 ---
@@ -202,9 +196,9 @@ team.execute()
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > *Replace `YOUR_USERNAME` above and set up the [snake workflow](https://github.com/Platane/snk)*
@@ -228,10 +222,9 @@ $ git push contact your-message
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-team@commitandquit.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@commitandquit.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Commit_%26_Quit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@CommitAndQuit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-team@commitandquit.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:commit.and.quit2026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Commit_%26_Quit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-mitesh-a87876280/)
+[![GitHub](https://img.shields.io/badge/GitHub-@CommitAndQuit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoMitesh21)
 
 </div>
 
