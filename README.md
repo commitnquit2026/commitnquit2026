@@ -106,7 +106,7 @@ team.execute()
 <tr>
 
 <td align="center" width="25%">
-<img src="https://raomitesh.in/images/My%20Professional%20Pic.png" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
+<img src="https://github.com/RaoMitesh21/RaoMitesh21.github.io/blob/main/images/My%20Professional%20Pic.png" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
 <br/>
 <b>Developer 01</b>
 <br/>
