@@ -106,7 +106,7 @@ team.execute()
 <tr>
 
 <td align="center" width="25%">
-<img src="PROFILE_IMAGE_URL_1" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
+<img src="https://raomitesh.in/images/My%20Professional%20Pic.png" width="80" style="border-radius:50%; border: 3px solid #FFD700"/>
 <br/>
 <b>Developer 01</b>
 <br/>
@@ -120,7 +120,7 @@ team.execute()
 </td>
 
 <td align="center" width="25%">
-<img src="PROFILE_IMAGE_URL_2" width="80" style="border-radius:50%; border: 3px solid #2ea44f"/>
+<img src="https://github.com/henilpaneliya95/Henil-Paneliya-Resume/blob/main/Index_image.png" width="80" style="border-radius:50%; border: 3px solid #2ea44f"/>
 <br/>
 <b>Developer 02</b>
 <br/>
