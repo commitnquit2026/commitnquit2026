@@ -132,7 +132,7 @@ team.execute()
 </td>
 
 <td align="center" width="25%">
-<img src="PROFILE_IMAGE_URL_3" width="80" style="border-radius:50%; border: 3px solid #6f42c1"/>
+<img src="https://github.com/commitnquit2026/commitnquit2026/blob/main/Developer%2003.jpeg" width="80" style="border-radius:50%; border: 3px solid #6f42c1"/>
 <br/>
 <b>Developer 03</b>
 <br/>
