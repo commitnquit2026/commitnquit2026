@@ -140,7 +140,7 @@ team.execute()
 <br/>
 <img src="https://img.shields.io/badge/Role-UI%2FUX_Designer-6f42c1?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/3D_Design-Expert-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/3D_Design-Expert-F7DF1E?style=flat-square&logo=3D"/>
 </td>
 
 </tr>
