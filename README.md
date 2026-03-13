@@ -201,7 +201,7 @@ team.execute()
   <img alt="github-snake" src="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> *Replace `YOUR_USERNAME` above and set up the [snake workflow](https://github.com/Platane/snk)*
+> *Replace `commitnquit2026` above and set up the [snake workflow](https://github.com/Platane/snk)*
 </div>
 
 ---
