@@ -190,22 +190,6 @@ team.execute()
 
 ---
 
-<!-- ██████████████████ CONTRIBUTION SNAKE ██████████████████ -->
-
-<h2>🐍 Commit History</h2>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/commitnquit2026/commitnquit2026/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> *Replace `commitnquit2026` above and set up the [snake workflow](https://github.com/Platane/snk)*
-</div>
-
----
-
 <!-- ██████████████████ CONTACT ██████████████████ -->
 
 <h2>
