@@ -128,7 +128,7 @@ team.execute()
 <br/>
 <img src="https://img.shields.io/badge/Role-Backend_Developer-2ea44f?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/PHP-Expert-3776AB?style=flat-square&logo=php"/>
 </td>
 
 <td align="center" width="25%">
